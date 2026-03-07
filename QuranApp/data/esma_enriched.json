@@ -1,0 +1,1093 @@
+{
+  "items": [
+    {
+      "name": "Allah",
+      "appellation": "Allah",
+      "meaning": "Eşi ve benzeri olmayan, bütün noksan sıfatlardan münezzeh tek İlah, her şeyin sahibi.",
+      "psychological_benefits": [
+        "Varoluşsal Boşluk",
+        "Anlamsızlık",
+        "Tüm Sıkıntılar"
+      ],
+      "zmir_recommendation": "Her türlü sıkıntı ve istek anında, kalbin mutmain olması için zikredilir."
+    },
+    {
+      "name": "Ar-Rahman",
+      "appellation": "Er-Rahmân",
+      "meaning": "Dünyada bütün mahlükata merhamet eden, şefkat gösteren, ihsan eden.",
+      "psychological_benefits": [
+        "Sevgisizlik",
+        "Katı Kalplilik",
+        "Merhamet Eksikliği"
+      ],
+      "zmir_recommendation": "Kalbin yumuşaması ve merhamet duygusunun artması için okunması tavsiye edilir."
+    },
+    {
+      "name": "Ar-Rahim",
+      "appellation": "Er-Rahîm",
+      "meaning": "Ahirette sadece müminlere merhamet eden, onları koruyan ve bağışlayan.",
+      "psychological_benefits": [
+        "Ahiret Korkusu",
+        "Güvensizlik",
+        "Manevi Destek"
+      ],
+      "zmir_recommendation": "Manevi rızık ve ahiret selameti için zikredilir."
+    },
+    {
+      "name": "Al-Malik",
+      "appellation": "El-Melik",
+      "meaning": "Mülkün, kainatın tek sahibi, mutlak hükümdarı.",
+      "psychological_benefits": [
+        "Maddi Kaygı",
+        "Otorite Korkusu",
+        "Güçsüzlük Hissi"
+      ],
+      "zmir_recommendation": "Maddi ve manevi güç kazanmak, insanlara söz geçirmek için okunur."
+    },
+    {
+      "name": "Al-Quddus",
+      "appellation": "El-Kuddûs",
+      "meaning": "Her türlü eksiklikten uzak, pek temiz, mukaddes.",
+      "psychological_benefits": [
+        "Ruhsal Kirlilik Hissi",
+        "Takıntılar",
+        "Vesvese"
+      ],
+      "zmir_recommendation": "Ruhsal arınma ve vesveselerden kurtulmak için tavsiye edilir."
+    },
+    {
+      "name": "As-Salam",
+      "appellation": "Es-Selâm",
+      "meaning": "Her türlü tehlikeden selamete çıkaran, cennetteki kullarına selam eden.",
+      "psychological_benefits": [
+        "Korku",
+        "Huzursuzluk",
+        "Tehlike Endişesi"
+      ],
+      "zmir_recommendation": "İç huzur, güvenlik ve korkulardan emin olmak için okunur."
+    },
+    {
+      "name": "Al-Mu'min",
+      "appellation": "El-Mü'min",
+      "meaning": "Güven veren, emin kılan, koruyan, inananları tasdik eden.",
+      "psychological_benefits": [
+        "Güvensizlik",
+        "Panik Atak",
+        "Şüphe"
+      ],
+      "zmir_recommendation": "Korku ve panik anlarında güven hissetmek için zikredilir."
+    },
+    {
+      "name": "Al-Muhaymin",
+      "appellation": "El-Müheymin",
+      "meaning": "Her şeyi görüp gözeten, her varlığın yaptıklarından haberdar olan.",
+      "psychological_benefits": [
+        "Yalnızlık",
+        "Unutkanlık",
+        "Dikkatsizlik"
+      ],
+      "zmir_recommendation": "Hafızayı güçlendirmek ve manevi uyanıklık için okunur."
+    },
+    {
+      "name": "Al-Aziz",
+      "appellation": "El-Azîz",
+      "meaning": "İzzet sahibi, her şeye galip gelen, mağlup edilmesi imkansız olan.",
+      "psychological_benefits": [
+        "Aşağılık Kompleksi",
+        "Çaresizlik",
+        "Özgüven Eksikliği"
+      ],
+      "zmir_recommendation": "İnsanlar arasında itibar ve onur kazanmak için zikredilir."
+    },
+    {
+      "name": "Al-Jabbar",
+      "appellation": "El-Cebbâr",
+      "meaning": "Azamet ve kudret sahibi, dilediğini mutlak yaptıran, kırıkları onaran.",
+      "psychological_benefits": [
+        "İrade Zayıflığı",
+        "Kırgınlık",
+        "Tembellik"
+      ],
+      "zmir_recommendation": "Eksik işleri tamamlamak ve iradeyi güçlendirmek için okunur."
+    },
+    {
+      "name": "Al-Mutakabbir",
+      "appellation": "El-Mütekebbir",
+      "meaning": "Büyüklükte eşi olmayan, her şeyde ve her hadisede büyüklüğünü gösteren.",
+      "psychological_benefits": [
+        "Ümitsizlik",
+        "Özgüvensizlik",
+        "Ezilmişlik Hissi"
+      ],
+      "zmir_recommendation": "Manevi heybet ve saygınlık kazanmak için zikredilir."
+    },
+    {
+      "name": "Al-Khaliq",
+      "appellation": "El-Hâlık",
+      "meaning": "Her şeyi yoktan var eden, yaratan, şekillendiren.",
+      "psychological_benefits": [
+        "Yaratıcılık Tıkanıklığı",
+        "İşlerde Tıkanıklık",
+        "Üretkenlik Sorunu"
+      ],
+      "zmir_recommendation": "Sanatsal yeteneklerin gelişmesi ve işlerin kolaylaşması için okunur."
+    },
+    {
+      "name": "Al-Bari",
+      "appellation": "El-Bâri",
+      "meaning": "Her şeyi kusursuz ve uyumlu bir şekilde yaratan.",
+      "psychological_benefits": [
+        "Bedensel Rahatsızlıklar",
+        "Dengesizlik",
+        "Uyumsuzluk"
+      ],
+      "zmir_recommendation": "Bedensel ve ruhsal şifa, işlerde denge için zikredilir."
+    },
+    {
+      "name": "Al-Musawwir",
+      "appellation": "El-Musavvir",
+      "meaning": "Varlıklara suret veren, onları en güzel şekilde tasvir eden.",
+      "psychological_benefits": [
+        "Estetik Kaygı",
+        "Beğenilmeme Korkusu",
+        "Hayal Gücü Eksikliği"
+      ],
+      "zmir_recommendation": "Güzellik ve hayal gücünün artması için okunması tavsiye edilir."
+    },
+    {
+      "name": "Al-Ghaffar",
+      "appellation": "El-Gaffâr",
+      "meaning": "Günahları çokça bağışlayan, setreden, ayıpları örten.",
+      "psychological_benefits": [
+        "Suçluluk Duygusu",
+        "Pişmanlık",
+        "Utanç"
+      ],
+      "zmir_recommendation": "Vicdan azabını dindirmek ve bağışlanma dilemek için zikredilir."
+    },
+    {
+      "name": "Al-Qahhar",
+      "appellation": "El-Kahhâr",
+      "meaning": "Her şeye galip gelen, zalimleri kahreden, mutlak hakim.",
+      "psychological_benefits": [
+        "Nefse Yenilme",
+        "Bağımlılıklar",
+        "Zulme Uğrama"
+      ],
+      "zmir_recommendation": "Nefsi terbiye etmek ve kötü alışkanlıklardan kurtulmak için okunur."
+    },
+    {
+      "name": "Al-Wahhab",
+      "appellation": "El-Vehhâb",
+      "meaning": "Karşılıksız bolca veren, ihsanı bol olan.",
+      "psychological_benefits": [
+        "Maddi Sıkıntı",
+        "Yokluk Korkusu",
+        "Borç Stresi"
+      ],
+      "zmir_recommendation": "Maddi sıkıntılardan kurtulmak ve bereket için zikredilir."
+    },
+    {
+      "name": "Ar-Razzaq",
+      "appellation": "Er-Rezzâk",
+      "meaning": "Bütün mahlukatın rızkını veren ve ihtiyaçlarını karşılayan.",
+      "psychological_benefits": [
+        "Gelecek Kaygısı",
+        "Geçim Derdi",
+        "Açgözlülük"
+      ],
+      "zmir_recommendation": "Rızkın artması ve geçim kolaylığı için sabahları okunması tavsiye edilir."
+    },
+    {
+      "name": "Al-Fattah",
+      "appellation": "El-Fettâh",
+      "meaning": "Her türlü zorlukları açan, kolaylaştıran, hüküm veren.",
+      "psychological_benefits": [
+        "Çözümsüzlük",
+        "Kapanmış Kapılar",
+        "Zihin Bulanıklığı"
+      ],
+      "zmir_recommendation": "Zor işlerin kolaylaşması ve kapıların açılması için zikredilir."
+    },
+    {
+      "name": "Al-Alim",
+      "appellation": "El-Alîm",
+      "meaning": "Her şeyi hakkıyla bilen, ilmi sonsuz olan.",
+      "psychological_benefits": [
+        "Bilgisizlik",
+        "Anlama Güçlüğü",
+        "Kafa Karışıklığı"
+      ],
+      "zmir_recommendation": "İlim öğrenmek ve hafızayı kuvvetlendirmek için okunur."
+    },
+    {
+      "name": "Al-Qabid",
+      "appellation": "El-Kâbıd",
+      "meaning": "Dilediğinin rızkını daraltan, ruhları kabzeden, sıkan.",
+      "psychological_benefits": [
+        "İç Daralması",
+        "Kontrol Kaybı",
+        "Sabırsızlık"
+      ],
+      "zmir_recommendation": "Sabır kazanmak ve nefsi disipline etmek için zikredilir."
+    },
+    {
+      "name": "Al-Basit",
+      "appellation": "El-Bâsıt",
+      "meaning": "Dilediğinin rızkını genişleten, ruhları ferahlatan.",
+      "psychological_benefits": [
+        "Depresyon",
+        "Ruhsal Sıkıntı",
+        "Daralma"
+      ],
+      "zmir_recommendation": "Ruhsal ferahlık ve rızık genişliği için okunması tavsiye edilir."
+    },
+    {
+      "name": "Al-Khafid",
+      "appellation": "El-Hâfıd",
+      "meaning": "Kafirleri ve zalimleri alçaltan, dereceleri düşüren.",
+      "psychological_benefits": [
+        "Kibir",
+        "Böbürlenme",
+        "Düşman Korkusu"
+      ],
+      "zmir_recommendation": "Kötü niyetli düşmanlardan korunmak ve nefsi alçaltmak için zikredilir."
+    },
+    {
+      "name": "Ar-Rafi",
+      "appellation": "Er-Râfi",
+      "meaning": "Müminleri ve itaatkarları yükselten, dereceleri artıran.",
+      "psychological_benefits": [
+        "Aşağılanma Hissi",
+        "Başarısızlık",
+        "Motivasyon Eksikliği"
+      ],
+      "zmir_recommendation": "Makam, mevkii ve manevi derecelerin yükselmesi için okunur."
+    },
+    {
+      "name": "Al-Mu'izz",
+      "appellation": "El-Muizz",
+      "meaning": "Dilediğini aziz kılan, onurlandıran, güç veren.",
+      "psychological_benefits": [
+        "Zayıflık",
+        "Onur Kırılması",
+        "Saygınlık İhtiyacı"
+      ],
+      "zmir_recommendation": "İtibar kazanmak ve sevilmek için zikredilir."
+    },
+    {
+      "name": "Al-Mudhill",
+      "appellation": "El-Müzill",
+      "meaning": "Dilediğini zelil kılan, hor ve hakir eden.",
+      "psychological_benefits": [
+        "Nefsi Şımarmışlık",
+        "Düşman Baskısı",
+        "Korku"
+      ],
+      "zmir_recommendation": "Nefsin taşkınlıklarını önlemek ve düşman şerrinden korunmak için okunur."
+    },
+    {
+      "name": "As-Sami",
+      "appellation": "Es-Semî",
+      "meaning": "Her şeyi en iyi işiten, duaları kabul eden.",
+      "psychological_benefits": [
+        "Anlaşılmama Hissi",
+        "Yalnızlık",
+        "İletişim Sorunları"
+      ],
+      "zmir_recommendation": "Duaların kabulü ve işitme rahatsızlıkları için okunması tavsiye edilir."
+    },
+    {
+      "name": "Al-Basir",
+      "appellation": "El-Basîr",
+      "meaning": "Her şeyi en iyi gören, gizli açık her şeye vakıf olan.",
+      "psychological_benefits": [
+        "Dikkatsizlik",
+        "Gözden Kaçırma",
+        "Basiretsizlik"
+      ],
+      "zmir_recommendation": "Basiretin açılması ve gerçekleri görebilmek için zikredilir."
+    },
+    {
+      "name": "Al-Hakam",
+      "appellation": "El-Hakem",
+      "meaning": "Mutlak hakim, hakkı batıldan ayıran, hüküm veren.",
+      "psychological_benefits": [
+        "Kararsızlık",
+        "Haksızlığa Uğrama",
+        "Adalet Beklentisi"
+      ],
+      "zmir_recommendation": "Haklı davalarda başarı ve doğru karar verebilmek için okunur."
+    },
+    {
+      "name": "Al-Adl",
+      "appellation": "El-Adl",
+      "meaning": "Mutlak adalet sahibi, asla zulmetmeyen.",
+      "psychological_benefits": [
+        "Adaletsizlik Hissi",
+        "Öfke",
+        "Dengesizlik"
+      ],
+      "zmir_recommendation": "Adaletin tecellisi ve dengeli bir ruh hali için zikredilir."
+    },
+    {
+      "name": "Al-Latif",
+      "appellation": "El-Latîf",
+      "meaning": "Lütuf ve ihsan sahibi, en ince işlerin bütün inceliklerini bilen.",
+      "psychological_benefits": [
+        "Katılık",
+        "Umutsuzluk",
+        "Maddi Darlık"
+      ],
+      "zmir_recommendation": "Rızık bolluğu, dileklerin kabulü ve nezaket kazanmak için okunur."
+    },
+    {
+      "name": "Al-Khabir",
+      "appellation": "El-Habîr",
+      "meaning": "Her şeyin iç yüzünden, gizli taraflarından haberdar olan.",
+      "psychological_benefits": [
+        "Kandırılma Korkusu",
+        "Cehalet",
+        "Belirsizlik"
+      ],
+      "zmir_recommendation": "Gizli sırları anlamak ve haberdar olmak için zikredilir."
+    },
+    {
+      "name": "Al-Halim",
+      "appellation": "El-Halîm",
+      "meaning": "Acele etmeyen, yumuşak muamele eden, cezayı erteleyen.",
+      "psychological_benefits": [
+        "Öfke Kontrolü",
+        "Stres",
+        "Sabırsızlık"
+      ],
+      "zmir_recommendation": "Sakinleşmek, öfkeyi yenmek ve yumuşak huylu olmak için okunur."
+    },
+    {
+      "name": "Al-Azim",
+      "appellation": "El-Azîm",
+      "meaning": "Büyüklüğü sınırsız, azamet sahibi.",
+      "psychological_benefits": [
+        "Küçümsenme",
+        "Güçsüzlük",
+        "Saygı Görmeme"
+      ],
+      "zmir_recommendation": "Sözü dinlenir olmak ve saygı görmek için zikredilir."
+    },
+    {
+      "name": "Al-Ghafur",
+      "appellation": "El-Gafûr",
+      "meaning": "Affı ve bağışlaması bol olan, günahları örten.",
+      "psychological_benefits": [
+        "Günahkarlık Hissi",
+        "Geçmiş Takıntısı",
+        "Affedilmeme Korkusu"
+      ],
+      "zmir_recommendation": "Günahların affı ve ruhsal arınma için çokça okunur."
+    },
+    {
+      "name": "Ash-Shakur",
+      "appellation": "Eş-Şekûr",
+      "meaning": "Az amele çok sevap veren, şükrü kabul eden.",
+      "psychological_benefits": [
+        "Tatminsizlik",
+        "Mutsuzluk",
+        "Nankörlük Hissi"
+      ],
+      "zmir_recommendation": "Nimetlerin artması ve hayatın tadını almak için zikredilir."
+    },
+    {
+      "name": "Al-Aliyy",
+      "appellation": "El-Aliyy",
+      "meaning": "Yücelikte, şerefte ve hükümranlıkta sonsuz olan.",
+      "psychological_benefits": [
+        "Dışlanmışlık",
+        "Değersizlik",
+        "Aşağılanma"
+      ],
+      "zmir_recommendation": "Manevi derece artışı ve insanlar nezdinde yükselmek için okunur."
+    },
+    {
+      "name": "Al-Kabir",
+      "appellation": "El-Kebîr",
+      "meaning": "Büyüklükte eşi olmayan, evreni kuşatan.",
+      "psychological_benefits": [
+        "Acizlik",
+        "Yetememe Duygusu",
+        "Korku"
+      ],
+      "zmir_recommendation": "Hürmet görmek ve makam sahibi olmak için zikredilir."
+    },
+    {
+      "name": "Al-Hafiz",
+      "appellation": "El-Hafîz",
+      "meaning": "Her şeyi koruyan, saklayan, muhafaza eden.",
+      "psychological_benefits": [
+        "Güvensizlik",
+        "Kaza Korkusu",
+        "Kaybetme Korkusu"
+      ],
+      "zmir_recommendation": "Her türlü bela, musibet ve tehlikeden korunmak için okunur."
+    },
+    {
+      "name": "Al-Muqit",
+      "appellation": "El-Mukît",
+      "meaning": "Her yaratılmışın rızkını ve gıdasını veren, beden ve ruhları besleyen.",
+      "psychological_benefits": [
+        "Açlık Korkusu",
+        "Enerji Düşüklüğü",
+        "Muhtaçlık"
+      ],
+      "zmir_recommendation": "Muhtaç olmamak ve beden/ruh sağlığı için zikredilir."
+    },
+    {
+      "name": "Al-Hasib",
+      "appellation": "El-Hasîb",
+      "meaning": "Herkesin hesabını en iyi bilen, yeten, kafi gelen.",
+      "psychological_benefits": [
+        "Yalnızlık",
+        "Haksızlık Endişesi",
+        "Desteksizlik"
+      ],
+      "zmir_recommendation": "Zorluklara karşı Allah'ın yetmesi ve korkulardan emin olmak için okunur."
+    },
+    {
+      "name": "Al-Jalil",
+      "appellation": "El-Celîl",
+      "meaning": "Celalet ve ululuk sahibi, heybetli.",
+      "psychological_benefits": [
+        "Siliklik",
+        "Pasiflik",
+        "Saygınlık Eksikliği"
+      ],
+      "zmir_recommendation": "Zalimlere karşı heybetli görünmek ve saygı uyandırmak için zikredilir."
+    },
+    {
+      "name": "Al-Karim",
+      "appellation": "El-Kerîm",
+      "meaning": "Çok cömert, ikramı bol, karşılıksız veren.",
+      "psychological_benefits": [
+        "Cimrilik",
+        "Kıtlık Bilinci",
+        "Bereketsizlik"
+      ],
+      "zmir_recommendation": "Bol rızık ve kolaylık elde etmek için okunması tavsiye edilir."
+    },
+    {
+      "name": "Ar-Raqib",
+      "appellation": "Er-Rakîb",
+      "meaning": "Her varlığı her an gözeten, kontrolü altında tutan.",
+      "psychological_benefits": [
+        "Başıboşluk",
+        "Gözetilmeme Hissi",
+        "Unutulmuşluk"
+      ],
+      "zmir_recommendation": "Kayıp eşyanın bulunması ve Allah'ın korumasını hissetmek için zikredilir."
+    },
+    {
+      "name": "Al-Mujib",
+      "appellation": "El-Mücîb",
+      "meaning": "Duaları, istekleri kabul eden, cevap veren.",
+      "psychological_benefits": [
+        "Karşılıksızlık",
+        "Umutsuzluk",
+        "Duyulmama Hissi"
+      ],
+      "zmir_recommendation": "Duaların kabulü ve isteklerin gerçekleşmesi için sıkça okunur."
+    },
+    {
+      "name": "Al-Wasi",
+      "appellation": "El-Vâsi",
+      "meaning": "İlmi, rahmeti ve kudreti geniş olan, her şeyi kuşatan.",
+      "psychological_benefits": [
+        "Darlık",
+        "Bunalım",
+        "Kapasite Yetersizliği"
+      ],
+      "zmir_recommendation": "Ömür, rızık ve sıhhat genişliği için zikredilir."
+    },
+    {
+      "name": "Al-Hakim",
+      "appellation": "El-Hakîm",
+      "meaning": "Her işi hikmetli olan, her şeyi yerli yerince yapan.",
+      "psychological_benefits": [
+        "Anlamsızlık",
+        "Başarısızlık",
+        "Yanlış Kararlar"
+      ],
+      "zmir_recommendation": "İşlerin kolaylaşması ve hikmet sahibi olmak için okunur."
+    },
+    {
+      "name": "Al-Wadud",
+      "appellation": "El-Vedûd",
+      "meaning": "Kullarını çok seven, sevilmeye en layık olan.",
+      "psychological_benefits": [
+        "Sevgisizlik",
+        "Yalnızlık",
+        "Ailevi Sorunlar"
+      ],
+      "zmir_recommendation": "İnsanlar tarafından sevilmek ve aile huzuru için okunması tavsiye edilir."
+    },
+    {
+      "name": "Al-Majid",
+      "appellation": "El-Mecîd",
+      "meaning": "Şanı büyük ve yüksek olan, övgüye layık.",
+      "psychological_benefits": [
+        "İtibarsızlık",
+        "Küçük Görülme",
+        "Motivasyon"
+      ],
+      "zmir_recommendation": "İzzet ve şerefin artması, övgüye layık olmak için zikredilir."
+    },
+    {
+      "name": "Al-Ba'ith",
+      "appellation": "El-Bâis",
+      "meaning": "Ölüleri dirilten, peygamberler gönderen, uykudan uyandıran.",
+      "psychological_benefits": [
+        "Tembellik",
+        "Atalet",
+        "Yeniden Başlama Zorluğu"
+      ],
+      "zmir_recommendation": "İradeyi kuvvetlendirmek ve işlerde başarı için okunur."
+    },
+    {
+      "name": "Ash-Shahid",
+      "appellation": "Eş-Şehîd",
+      "meaning": "Her yerde ve her zamanda hazır ve nazır olan, her şeye şahit.",
+      "psychological_benefits": [
+        "Yalan İtham",
+        "İftira",
+        "Asilik"
+      ],
+      "zmir_recommendation": "İsyankar nefsi veya kişileri itaatkar kılmak için zikredilir."
+    },
+    {
+      "name": "Al-Haqq",
+      "appellation": "El-Hakk",
+      "meaning": "Varlığı hiç değişmeden duran, varlığı gerçek olan.",
+      "psychological_benefits": [
+        "Gerçeği Görememe",
+        "Batıla Sapma",
+        "Kararsızlık"
+      ],
+      "zmir_recommendation": "Doğruyu bulmak ve işin sonunun hayırlı gelmesi için okunur."
+    },
+    {
+      "name": "Al-Wakil",
+      "appellation": "El-Vekîl",
+      "meaning": "Kendisine güvenilip dayanılan, işleri en iyi şekilde yoluna koyan.",
+      "psychological_benefits": [
+        "Endişe",
+        "Yük Altında Ezilme",
+        "Güvensizlik"
+      ],
+      "zmir_recommendation": "Her türlü sıkıntıda Allah'a güvenip dayanmak için 'Hasbunallahu ve nimel vekil' olarak okunur."
+    },
+    {
+      "name": "Al-Qawiyy",
+      "appellation": "El-Kaviyy",
+      "meaning": "Pek güçlü, kuvvetli, kudretli.",
+      "psychological_benefits": [
+        "Fiziksel Zayıflık",
+        "Yorgunluk",
+        "Tükenmişlik"
+      ],
+      "zmir_recommendation": "Bedensel ve ruhsal güç kazanmak, yorgunluğu atmak için zikredilir."
+    },
+    {
+      "name": "Al-Matin",
+      "appellation": "El-Metîn",
+      "meaning": "Çok sağlam, sarsılmaz, dayanıklı.",
+      "psychological_benefits": [
+        "İstikrarsızlık",
+        "Dayanıksızlık",
+        "Çabuk Pes Etme"
+      ],
+      "zmir_recommendation": "Sağlam bir irade ve dayanıklılık kazanmak için okunur."
+    },
+    {
+      "name": "Al-Waliyy",
+      "appellation": "El-Velî",
+      "meaning": "İnananların dostu, yardımcısı, işlerini üstlenen.",
+      "psychological_benefits": [
+        "Dostsuzluk",
+        "Yalnızlık",
+        "Destek İhtiyacı"
+      ],
+      "zmir_recommendation": "Allah'ın dostluğunu kazanmak ve veli kullardan olmak için zikredilir."
+    },
+    {
+      "name": "Al-Hamid",
+      "appellation": "El-Hamîd",
+      "meaning": "Her türlü övgüye layık olan, ancak kendisine hamd edilen.",
+      "psychological_benefits": [
+        "Karamsarlık",
+        "Şükürsüzlük",
+        "Memnuniyetsizlik"
+      ],
+      "zmir_recommendation": "Ahlak güzelliği ve övülen bir kişi olmak için okunur."
+    },
+    {
+      "name": "Al-Muhsi",
+      "appellation": "El-Muhsî",
+      "meaning": "Her şeyin sayısını bilen, ilmiyle her şeyi kuşatan.",
+      "psychological_benefits": [
+        "Zeka Geriliği",
+        "Unutkanlık",
+        "Kavrama Sorunu"
+      ],
+      "zmir_recommendation": "Zihin açıklığı ve kuvvetli bir hafıza için tavsiye edilir."
+    },
+    {
+      "name": "Al-Mubdi",
+      "appellation": "El-Mübdi",
+      "meaning": "Varlıkları maddesiz ve örneksiz olarak ilk baştan yaratan.",
+      "psychological_benefits": [
+        "Başarısızlık Korkusu",
+        "Kısırlık",
+        "Üretim Sorunu"
+      ],
+      "zmir_recommendation": "Herhangi bir işte başarıya ulaşmak ve yeni başlangıçlar için okunur."
+    },
+    {
+      "name": "Al-Mu'id",
+      "appellation": "El-Muîd",
+      "meaning": "Yaratılmışları yok ettikten sonra tekrar yaratan.",
+      "psychological_benefits": [
+        "Kaybetme Korkusu",
+        "Tükenmişlik",
+        "Eskiye Özlem"
+      ],
+      "zmir_recommendation": "Elden çıkan bir şeyi geri kazanmak veya eski gücüne dönmek için zikredilir."
+    },
+    {
+      "name": "Al-Muhyi",
+      "appellation": "El-Muhyî",
+      "meaning": "Can veren, dirilten, hayat bağışlayan.",
+      "psychological_benefits": [
+        "Umutsuzluk",
+        "Ruhsal Ölümlülük",
+        "Halsizlik"
+      ],
+      "zmir_recommendation": "İşlerin canlanması ve manevi diriliş için okunur."
+    },
+    {
+      "name": "Al-Mumit",
+      "appellation": "El-Mümît",
+      "meaning": "Canlıların hayatına son veren, ölümü yaratan.",
+      "psychological_benefits": [
+        "Nefse Hakimiyet",
+        "Ölüm Korkusu",
+        "Aşırı Dünya Sevgisi"
+      ],
+      "zmir_recommendation": "Nefsi terbiye etmek ve kötü alışkanlıkları öldürmek için zikredilir."
+    },
+    {
+      "name": "Al-Hayy",
+      "appellation": "El-Hayy",
+      "meaning": "Ezeli ve ebedi hayat sahibi, her zaman diri.",
+      "psychological_benefits": [
+        "Yaşama Sevincisizliği",
+        "Enerji Düşüklüğü",
+        "Hastalık"
+      ],
+      "zmir_recommendation": "Uzun ve sağlıklı bir ömür, kalp diriliği için zikredilir."
+    },
+    {
+      "name": "Al-Qayyum",
+      "appellation": "El-Kayyûm",
+      "meaning": "Kendi kendine var olan, her şeyi ayakta tutan.",
+      "psychological_benefits": [
+        "Bağımlılık",
+        "Ayakta Duramama",
+        "Zayıflık"
+      ],
+      "zmir_recommendation": "İşlerde sebat, uykusuzluk ve unutkanlık için okunur. Genelde Ya Hayy Ya Kayyum olarak okunur."
+    },
+    {
+      "name": "Al-Wajid",
+      "appellation": "El-Vâcid",
+      "meaning": "İstediğini istediği vakit bulan, hiçbir şeye muhtaç olmayan.",
+      "psychological_benefits": [
+        "Kaybetme Endişesi",
+        "Yoksunluk",
+        "Arayış"
+      ],
+      "zmir_recommendation": "Aradığını bulmak ve kaybedilen şeylere kavuşmak için zikredilir."
+    },
+    {
+      "name": "Al-Majid",
+      "appellation": "El-Mâcid",
+      "meaning": "Kadri ve şanı büyük, kerem ve ihsanı bol olan.",
+      "psychological_benefits": [
+        "Değersizlik",
+        "Bereketsizlik",
+        "Sıradanlık"
+      ],
+      "zmir_recommendation": "Kazancın ve itibarın artması için okunması tavsiye edilir."
+    },
+    {
+      "name": "Al-Wahid",
+      "appellation": "El-Vâhid",
+      "meaning": "Tek olan, zatında, sıfatlarında ortağı olmayan.",
+      "psychological_benefits": [
+        "Zihin Dağınıklığı",
+        "Odaklanma Sorunu",
+        "Yalnızlık Korkusu"
+      ],
+      "zmir_recommendation": "Kalabalıklardan sıkılınca ve zihni toparlamak için zikredilir."
+    },
+    {
+      "name": "As-Samad",
+      "appellation": "Es-Samed",
+      "meaning": "Her şey kendisine muhtaç olan, kendisi hiçbir şeye muhtaç olmayan.",
+      "psychological_benefits": [
+        "Muhtaçlık Hissi",
+        "Bağımlılık",
+        "Açlık Korkusu"
+      ],
+      "zmir_recommendation": "Kimseye muhtaç olmamak ve açlık-susuzluk hissini yatıştırmak için okunur."
+    },
+    {
+      "name": "Al-Qadir",
+      "appellation": "El-Kâdir",
+      "meaning": "Her şeye gücü yeten, dilediğini yapan.",
+      "psychological_benefits": [
+        "Yetersizlik",
+        "Başaramama Korkusu",
+        "Zayıflık"
+      ],
+      "zmir_recommendation": "Arzu edilen bir işi başarmak ve güç kazanmak için zikredilir."
+    },
+    {
+      "name": "Al-Muqtadir",
+      "appellation": "El-Muktedir",
+      "meaning": "Kuvvet ve kudret sahiplerine yön veren, her şeye gücü yeten.",
+      "psychological_benefits": [
+        "Yönetme Zorluğu",
+        "İktidarsızlık",
+        "Kontrolsüzlük"
+      ],
+      "zmir_recommendation": "İşleri başarıyla yönetmek ve engelleri aşmak için okunur."
+    },
+    {
+      "name": "Al-Muqaddim",
+      "appellation": "El-Mukaddim",
+      "meaning": "Dilediğini öne alan, ileri geçiren.",
+      "psychological_benefits": [
+        "Geride Kalmışlık",
+        "Erteleme",
+        "Rekabet Korkusu"
+      ],
+      "zmir_recommendation": "Daima önde olmak ve işlerin hızlı ilerlemesi için zikredilir."
+    },
+    {
+      "name": "Al-Mu'akhkhir",
+      "appellation": "El-Muahhir",
+      "meaning": "Dilediğini sona bırakan, erteleyen.",
+      "psychological_benefits": [
+        "Acelecilik",
+        "Kötü Sonuç Korkusu",
+        "Zamanlama Hatası"
+      ],
+      "zmir_recommendation": "Kötü bir işin veya belanın ötelenmesi, ertelenmesi için okunur."
+    },
+    {
+      "name": "Al-Awwal",
+      "appellation": "El-Evvel",
+      "meaning": "Her şeyden önce olan, başlangıcı olmayan.",
+      "psychological_benefits": [
+        "Başlangıç Korkusu",
+        "Kökensizlik",
+        "Belirsizlik"
+      ],
+      "zmir_recommendation": "Her hayırlı işe başlarken ve ilk olmak için zikredilir."
+    },
+    {
+      "name": "Al-Akhir",
+      "appellation": "El-Âhir",
+      "meaning": "Her şeyden sonra kalan, sonu olmayan.",
+      "psychological_benefits": [
+        "Ölüm Korkusu",
+        "Gelecek Kaygısı",
+        "Sonun Kötü Olması"
+      ],
+      "zmir_recommendation": "Ömrün bereketli ve son nefesin imanlı olması için okunur."
+    },
+    {
+      "name": "Az-Zahir",
+      "appellation": "Ez-Zâhir",
+      "meaning": "Varlığı her şeyde görünen, aşikar olan.",
+      "psychological_benefits": [
+        "Gizlilik Korkusu",
+        "Anlaşılmazlık",
+        "Görülmeme"
+      ],
+      "zmir_recommendation": "Gizli meselelerin aydınlanması ve idrakin açılması için zikredilir."
+    },
+    {
+      "name": "Al-Batin",
+      "appellation": "El-Bâtın",
+      "meaning": "Mahiyeti gizli olan, gözle görülmeyen, her şeyin iç yüzünü bilen.",
+      "psychological_benefits": [
+        "Yüzeysellik",
+        "İç Huzursuzluk",
+        "Sır Tutamama"
+      ],
+      "zmir_recommendation": "Nefsin arınması ve ilahi sırlara vakıf olmak için okunur."
+    },
+    {
+      "name": "Al-Wali",
+      "appellation": "El-Vâlî",
+      "meaning": "Bütün kainatı idare eden, işlerini yürüten tek yönetici.",
+      "psychological_benefits": [
+        "Yönetememe",
+        "Kargaşa",
+        "Otorite Eksikliği"
+      ],
+      "zmir_recommendation": "Sözü geçerli olmak ve makamını korumak için zikredilir."
+    },
+    {
+      "name": "Al-Muta'ali",
+      "appellation": "El-Müteâlî",
+      "meaning": "Aklın mümkün gördüğü her şeyden, her halden pek yüce olan.",
+      "psychological_benefits": [
+        "Aşağılanma",
+        "Küçük Düşme",
+        "Hedefsizlik"
+      ],
+      "zmir_recommendation": "İstenilen mertebeye ulaşmak ve yükselmek için okunur."
+    },
+    {
+      "name": "Al-Barr",
+      "appellation": "El-Berr",
+      "meaning": "İyiliği ve ihsanı bol olan, kullarına şefkatli davranan.",
+      "psychological_benefits": [
+        "Vicdansızlık",
+        "Katılık",
+        "Hata Yapma Korkusu"
+      ],
+      "zmir_recommendation": "Her türlü iyilik, güzellik ve çocukların korunması için zikredilir."
+    },
+    {
+      "name": "At-Tawwab",
+      "appellation": "Et-Tevvâb",
+      "meaning": "Tövbeleri kabul eden, günahları bağışlayan.",
+      "psychological_benefits": [
+        "Pişmanlık",
+        "Suçluluk",
+        "Dönüşü Olmayan Yol"
+      ],
+      "zmir_recommendation": "Tövbelerin kabulü ve kötü alışkanlıklardan vazgeçmek için okunur."
+    },
+    {
+      "name": "Al-Muntaqim",
+      "appellation": "El-Müntakim",
+      "meaning": "Zalimlerden intikam alan, suçluları cezalandıran.",
+      "psychological_benefits": [
+        "Mazlumluk",
+        "Çaresizlik",
+        "İntikam Hissi"
+      ],
+      "zmir_recommendation": "Zulme uğrayanların haklarını alması ve zalimlerin şerrinden korunmak için zikredilir."
+    },
+    {
+      "name": "Al-Afuww",
+      "appellation": "El-Afüvv",
+      "meaning": "Affı çok olan, günahları kökünden silen.",
+      "psychological_benefits": [
+        "Utanç",
+        "Kendini Affedememe",
+        "Hata Yükü"
+      ],
+      "zmir_recommendation": "Huzurlu bir kalp ve günahların tamamen silinmesi için okunur."
+    },
+    {
+      "name": "Ar-Ra'uf",
+      "appellation": "Er-Raûf",
+      "meaning": "Çok şefkatli, merhametli, esirgeyen.",
+      "psychological_benefits": [
+        "Sertlik",
+        "Acımasızlık",
+        "Sevgisizlik"
+      ],
+      "zmir_recommendation": "Kalp yumuşaklığı ve insanlardan şefkat görmek için zikredilir."
+    },
+    {
+      "name": "Malik-ul-Mulk",
+      "appellation": "Mâlikü'l-Mülk",
+      "meaning": "Mülkün ebedi sahibi, dilediği gibi tasarruf eden.",
+      "psychological_benefits": [
+        "Mal Kaybı Korkusu",
+        "Maddi Güvensizlik",
+        "Hırs"
+      ],
+      "zmir_recommendation": "Mal ve mülkün korunması, maddi güvence için okunur."
+    },
+    {
+      "name": "Dhul-Jalali wal-Ikram",
+      "appellation": "Zü'l-Celâli ve'l-İkrâm",
+      "meaning": "Hem büyüklük hem de kerem ve ikram sahibi.",
+      "psychological_benefits": [
+        "Dengesizlik",
+        "Saygınlık Arayışı",
+        "Yoksunluk"
+      ],
+      "zmir_recommendation": "İşlerin kolaylaşması, duaların kabulü ve itibar için zikredilir."
+    },
+    {
+      "name": "Al-Muqsit",
+      "appellation": "El-Muksit",
+      "meaning": "Bütün işleri birbirine denk ve yerli yerinde yapan, adaletli.",
+      "psychological_benefits": [
+        "Dengesizlik",
+        "Haksızlık",
+        "Vesvese"
+      ],
+      "zmir_recommendation": "Haksızlığa karşı korunmak ve ibadetlerde denge için okunur."
+    },
+    {
+      "name": "Al-Jami",
+      "appellation": "El-Câmi",
+      "meaning": "İstediğini istediği zaman istediği yerde toplayan.",
+      "psychological_benefits": [
+        "Dağınıklık",
+        "Ayrılık",
+        "Kaybolma"
+      ],
+      "zmir_recommendation": "Küslerin barışması, dağınık işlerin toparlanması için zikredilir."
+    },
+    {
+      "name": "Al-Ghaniyy",
+      "appellation": "El-Ganiyy",
+      "meaning": "Çok zengin, hiçbir şeye muhtaç olmayan.",
+      "psychological_benefits": [
+        "Fakirlik Korkusu",
+        "Yetersizlik",
+        "Hırs"
+      ],
+      "zmir_recommendation": "Maddi ve manevi zenginlik, kanaat sahibi olmak için okunur."
+    },
+    {
+      "name": "Al-Mughni",
+      "appellation": "El-Muğnî",
+      "meaning": "Dilediğini zengin eden, ihtiyaçlarını gideren.",
+      "psychological_benefits": [
+        "Geçim Sıkıntısı",
+        "Darlık",
+        "Muhtaçlık"
+      ],
+      "zmir_recommendation": "Fakirlikten kurtulmak ve işlerin bereketi için zikredilir."
+    },
+    {
+      "name": "Al-Mani'",
+      "appellation": "El-Mâni",
+      "meaning": "Bir şeyin meydana gelmesine izin vermeyen, engelleyen.",
+      "psychological_benefits": [
+        "Tehlike",
+        "Kaza Bela Korkusu",
+        "Zarar Görme"
+      ],
+      "zmir_recommendation": "Kazalardan, belalardan ve düşman şerrinden korunmak için okunur."
+    },
+    {
+      "name": "Ad-Darr",
+      "appellation": "Ed-Dârr",
+      "meaning": "Elem ve zarar veren şeyleri yaratan (imtihan için).",
+      "psychological_benefits": [
+        "Düşman Baskısı",
+        "Rahatlık Rehaveti",
+        "Unutkanlık"
+      ],
+      "zmir_recommendation": "Zararlı kişilerin defedilmesi ve belaların önlenmesi için zikredilir."
+    },
+    {
+      "name": "An-Nafi",
+      "appellation": "En-Nâfi",
+      "meaning": "Fayda veren şeyleri yaratan, hayır ulaştıran.",
+      "psychological_benefits": [
+        "Hastalık",
+        "Zarar Görme Endişesi",
+        "Verimsizlik"
+      ],
+      "zmir_recommendation": "Hastalıkşardan şifa bulmak ve hayırlı kapıların açılması için okunur."
+    },
+    {
+      "name": "An-Nur",
+      "appellation": "En-Nûr",
+      "meaning": "Alemleri nurlandıran, aydınlatan, ruhlara nur veren.",
+      "psychological_benefits": [
+        "Karanlık Korkusu",
+        "Cahillik",
+        "Ruhsal Sıkıntı"
+      ],
+      "zmir_recommendation": "Kalbin ve yüzün nurlanması, zihnin aydınlanması için zikredilir."
+    },
+    {
+      "name": "Al-Hadi",
+      "appellation": "El-Hâdî",
+      "meaning": "Hidayet veren, doğru yolu gösteren.",
+      "psychological_benefits": [
+        "Yön Kaybı",
+        "Kararsızlık",
+        "Sapıtmışlık Hissi"
+      ],
+      "zmir_recommendation": "Doğru yolu bulmak ve çocukların hidayeti için okunur."
+    },
+    {
+      "name": "Al-Badi",
+      "appellation": "El-Bedî",
+      "meaning": "Örneksiz, harika ve eşsiz şeyler yaratan.",
+      "psychological_benefits": [
+        "Monotonluk",
+        "Yaratıcılık Eksikliği",
+        "Çözümsüzlük"
+      ],
+      "zmir_recommendation": "Sanat kabiliyeti ve işlerde parlak fikirler bulmak için zikredilir."
+    },
+    {
+      "name": "Al-Baqi",
+      "appellation": "El-Bâkî",
+      "meaning": "Varlığının sonu olmayan, ebedi olan.",
+      "psychological_benefits": [
+        "Ölüm Korkusu",
+        "Ayrılık Acısı",
+        "Geçicilik Hissi"
+      ],
+      "zmir_recommendation": "Ömrün uzunluğu ve amellerin kalıcı olması için okunur."
+    },
+    {
+      "name": "Al-Warith",
+      "appellation": "El-Vâris",
+      "meaning": "Her şeyin asıl sahibi, mülk kendisine kalan.",
+      "psychological_benefits": [
+        "Yalnızlık",
+        "Mal Kaybı",
+        "Gelecek Endişesi"
+      ],
+      "zmir_recommendation": "Uzun ömür, mal ve mülkün hayırlı devamı için zikredilir."
+    },
+    {
+      "name": "Ar-Rashid",
+      "appellation": "Er-Reşîd",
+      "meaning": "Doğru yolu gösteren, işleri en güzel sonuca ulaştıran.",
+      "psychological_benefits": [
+        "Düzensizlik",
+        "Hata Yapma",
+        "Pişmanlık"
+      ],
+      "zmir_recommendation": "İşlerin rast gitmesi ve doğru kararlar almak için okunur."
+    },
+    {
+      "name": "As-Sabur",
+      "appellation": "Es-Sabûr",
+      "meaning": "Çok sabırlı, cezalandırmada acele etmeyen.",
+      "psychological_benefits": [
+        "Acelecilik",
+        "Tahammülsüzlük",
+        "Öfke"
+      ],
+      "zmir_recommendation": "Zorluklara karşı sabır ve metanet kazanmak, başladığı işi bitirmek için zikredilir."
+    }
+  ]
+}

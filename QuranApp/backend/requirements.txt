@@ -1,0 +1,37 @@
+# FastAPI
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.20
+
+# Database (Async)
+sqlalchemy[asyncio]==2.0.36
+asyncpg==0.30.0
+pgvector==0.3.6
+alembic==1.14.0
+
+# Database (Sync — for scripts only)
+psycopg2-binary==2.9.10
+
+# Pydantic
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+
+# AI Services
+google-genai
+
+# Cache (Async)
+redis[hiredis]==5.2.0
+
+
+# Logging
+structlog==24.4.0
+
+# Rate Limiting
+slowapi==0.1.9
+
+# Utils
+python-dotenv==1.0.1

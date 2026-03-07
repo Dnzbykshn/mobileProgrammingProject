@@ -1,0 +1,536 @@
+{
+  "items": [
+    {
+      "source": "Buhari, Deavat, 40",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ، وَغَلَبَةِ الرِّجَالِ",
+      "turkish_text": "Allah'ım! Kederden ve üzüntüden, acizlikten ve tembellikten, cimrilikten ve korkaklıktan, borç yükünden ve insanların kahrından sana sığınırım.",
+      "context": "Ağır üzüntü, depresif ruh hali ve hayatın yükü altında ezilmiş hissedildiğinde okunur.",
+      "emotional_tags": [
+        "Kaygı",
+        "Hüzün",
+        "Depresyon",
+        "Borç",
+        "Acizlik"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 82",
+      "arabic_text": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+      "turkish_text": "Senden başka ilah yoktur. Seni tenzih ederim. Şüphesiz ben zalimlerden oldum.",
+      "context": "Hz. Yunus'un balığın karnındaki duasıdır. İçinden çıkılmaz gibi görünen dert ve sıkıntılarda okunur.",
+      "emotional_tags": [
+        "Çaresizlik",
+        "Sıkıntı",
+        "Hüzün",
+        "Pişmanlık"
+      ]
+    },
+    {
+      "source": "Ebu Davud, Edeb, 64",
+      "arabic_text": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ، وَأَصْلِحْ لِي شَأْنِي كُلَّهُ لَا إِلَهَ إِلَّا أَنْتَ",
+      "turkish_text": "Allah'ım! Rahmetini umuyorum. Beni göz açıp kapayıncaya kadar bile olsa nefsime bırakma. Her halimi ıslah et. Senden başka ilah yoktur.",
+      "context": "Bunalım anlarında ve işlerin sarpa sardığı zamanlarda okunur.",
+      "emotional_tags": [
+        "Bunalım",
+        "Umut",
+        "Acizlik",
+        "Teslimiyet"
+      ]
+    },
+    {
+      "source": "Müslim, Zikir, 56",
+      "arabic_text": "أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+      "turkish_text": "Yarattığı şeylerin şerrinden Allah'ın kusursuz kelimelerine sığınırım.",
+      "context": "Korku hissedildiğinde, tekin olmayan bir yere girildiğinde veya akşamları korunma amacıyla okunur.",
+      "emotional_tags": [
+        "Korku",
+        "Korunma",
+        "Güvenlik",
+        "Endişe"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 13",
+      "arabic_text": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+      "turkish_text": "İsmiyle yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla. O, hakkıyla işiten ve her şeyi bilendir.",
+      "context": "Sabah ve akşam üçer defa okuyan kişiye ani bir bela isabet etmez.",
+      "emotional_tags": [
+        "Korunma",
+        "Güven",
+        "Huzur",
+        "Bela"
+      ]
+    },
+    {
+      "source": "Buhari, Teheccüd, 13",
+      "arabic_text": "اللَّهُمَّ لَكَ أَسْلَمْتُ، وَبِكَ آمَنْتُ، وَعَلَيْكَ تَوَكَّلْتُ، وَإِلَيْكَ أَنَبْتُ، وَبِكَ خَاصَمْتُ",
+      "turkish_text": "Allah'ım! Sana teslim oldum, sana inandım, sana güvendim, sana yöneldim ve senin uğruna mücadele ettim.",
+      "context": "Gece teheccüde kalkınca veya manevi güç kazanmak istendiğinde okunur.",
+      "emotional_tags": [
+        "Teslimiyet",
+        "Güven",
+        "Maneviyat",
+        "İbadet"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 111",
+      "arabic_text": "اللَّهُمَّ اكْفِنِي بِحَلَالِكَ عَنْ حَرَامِكَ، وَأَغْنِنِي بِفَضْلِكَ عَمَّنْ سِوَاكَ",
+      "turkish_text": "Allah'ım! Helal kıldıklarınla beni haramlarından koru. Lütfunla beni Senden başkasına muhtaç etme.",
+      "context": "Borç yükü altında ezilenler ve rızık darlığı çekenler için tavsiye edilmiştir.",
+      "emotional_tags": [
+        "Borç",
+        "Fakirlik",
+        "Rızık",
+        "Muhtaçlık"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 58",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ",
+      "turkish_text": "Allah'ım! Günahtan ve borçtan sana sığınırım.",
+      "context": "Hz. Aişe validemizin aktardığına göre Peygamberimiz namazlarında sıkça bu duayı ederdi.",
+      "emotional_tags": [
+        "Borç",
+        "Günah",
+        "Korunma"
+      ]
+    },
+    {
+      "source": "Buhari, Edeb, 76",
+      "arabic_text": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "turkish_text": "Kovulmuş şeytanın şerrinden Allah'a sığınırım.",
+      "context": "Öfke anında sakinleşmek için okunması emredilen en temel duadır.",
+      "emotional_tags": [
+        "Öfke",
+        "Sinir",
+        "Kontrol",
+        "Şeytan"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 73",
+      "arabic_text": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي، وَأَذْهِبْ غَيْظَ قَلْبِي، وَأَجِرْنِي مِنَ الشَّيْطَانِ",
+      "turkish_text": "Allah'ım! Günahımı bağışla, kalbimdeki öfkeyi gider ve beni şeytandan koru.",
+      "context": "Öfke patlaması yaşandığında veya kin duygusu oluştuğunda okunur.",
+      "emotional_tags": [
+        "Öfke",
+        "Kin",
+        "Sakinleşme"
+      ]
+    },
+    {
+      "source": "Buhari, Vudu, 75",
+      "arabic_text": "اللَّهُمَّ أَصْلِحْ لِي دِينِي الَّذِي هُوَ عِصْمَةُ أَمْرِي، وَأَصْلِحْ لِي دُنْيَايَ الَّتِي فِيهَا مَعَاشِي",
+      "turkish_text": "Allah'ım! İşlerimin koruyucusu olan dinimi ıslah et. Geçimimi sağladığım dünyamı ıslah et.",
+      "context": "Genel dünya ve ahiret dengesini kurmak, vesveseden uzak kalmak için okunur.",
+      "emotional_tags": [
+        "Denge",
+        "Dünya",
+        "Ahiret",
+        "Huzur"
+      ]
+    },
+    {
+      "source": "Müslim, İman, 211",
+      "arabic_text": "آمَنْتُ بِاللَّهِ وَرُسُلِهِ",
+      "turkish_text": "Allah'a ve peygamberlerine iman ettim.",
+      "context": "Şeytanın verdiği vesvese ve şüpheler kalbe geldiğinde bu sözü söyleyip Allah'a sığınılmalıdır.",
+      "emotional_tags": [
+        "Vesvese",
+        "Takıntı",
+        "OCD",
+        "İman"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 48",
+      "arabic_text": "اللَّهُمَّ خِرْ لِي وَاخْتَرْ لِي",
+      "turkish_text": "Allah'ım! Bana hayırlısını ver ve benim için hayırlı olanı seç.",
+      "context": "Bir karar verme aşamasında, kararsızlık yaşandığında okunur.",
+      "emotional_tags": [
+        "Kararsızlık",
+        "Seçim",
+        "İstihare"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 84",
+      "arabic_text": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+      "turkish_text": "Ey kalpleri halden hale çeviren Allah'ım! Kalbimi dinin üzere sabit kıl.",
+      "context": "Manevi istikrar arandığında ve yanlış karar vermekten korkulduğunda okunur.",
+      "emotional_tags": [
+        "Karar",
+        "Sebat",
+        "İstikrar",
+        "Kalp"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 2",
+      "arabic_text": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ",
+      "turkish_text": "Allah'ım! Sen benim Rabbimsin. Senden başka ilah yoktur. Beni Sen yarattın ve ben Senin kulunum. Gücüm yettiğince sana verdiğim söz ve vaat üzereyim.",
+      "context": "Seyyidül İstiğfar (Tövbelerin Efendisi). Sabah ve akşam okunması büyük fazilettir, suçluluk duygusuna şifadır.",
+      "emotional_tags": [
+        "Tövbe",
+        "Pişmanlık",
+        "Suçluluk",
+        "Bağışlanma"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 104",
+      "arabic_text": "اللَّهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
+      "turkish_text": "Allah'ım! Sen çok affedicisin, affetmeyi seversin, beni de affet.",
+      "context": "Kadir Gecesi duası olarak bilinir, yoğun pişmanlık anlarında okunur.",
+      "emotional_tags": [
+        "Af",
+        "Pişmanlık",
+        "Arınma"
+      ]
+    },
+    {
+      "source": "İbni Mace, Dua, 5",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ",
+      "turkish_text": "Allah'ım! Senden dünya ve ahirette afiyet dilerim.",
+      "context": "Her türlü bela, hastalık ve sıkıntıdan korunmak; genel iyilik hali için okunur.",
+      "emotional_tags": [
+        "Afiyet",
+        "Sağlık",
+        "Huzur",
+        "Şükür"
+      ]
+    },
+    {
+      "source": "Müslim, Zikir, 74",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+      "turkish_text": "Allah'ım! Senden hidayet, takva, iffet ve gönül zenginliği isterim.",
+      "context": "Manevi ve psikolojik tatmin, yalnızlık hissine karşı gönül tokluğu için okunur.",
+      "emotional_tags": [
+        "Yalnızlık",
+        "Tatmin",
+        "Zenginlik",
+        "Hidayet"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 13",
+      "arabic_text": "بِاسْمِكَ رَبِّي وَضَعْتُ جَنْبِي، وَبِكَ أَرْفَعُهُ، إِنْ أَمْسَكْتَ نَفْسِي فَارْحَمْهَا، وَإِنْ أَرْسَلْتَهَا فَاحْفَظْهَا",
+      "turkish_text": "Rabbim! Senin isminle yan tarafımı (yatağa) koydum, senin isminle kaldırırım. Eğer canımı alırsan ona rahmet et, eğer geri gönderirsen onu koru.",
+      "context": "Yatağa yatarken okunur, uykusuzluk ve gece korkularına karşı şifadır.",
+      "emotional_tags": [
+        "Uyku",
+        "Uykusuzluk",
+        "Teslimiyet",
+        "Gece"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 93",
+      "arabic_text": "اللَّهُمَّ غَارَتِ النُّجُومُ، وَهَدَأَتِ الْعُيُونُ، وَأَنْتَ حَيٌّ قَيُّومٌ، لَا تَأْخُذُكَ سِنَةٌ وَلَا نَوْمٌ، يَا حَيُّ يَا قَيُّومُ، أَهْدِئْ لَيْلِي، وَأَنِمْ عَيْنِي",
+      "turkish_text": "Allah'ım! Yıldızlar battı, gözler sakinleşti (uyudu). Sen Hayy ve Kayyum'sun, seni ne uyuklama tutar ne de uyku. Ey Hayy ve Kayyum olan Allah'ım, gecemi sakinleştir ve gözümü uyut.",
+      "context": "Şiddetli uykusuzluk (insomnia) çekenler için tavsiye edilmiştir.",
+      "emotional_tags": [
+        "Uykusuzluk",
+        "Uyku",
+        "Huzursuzluk"
+      ]
+    },
+    {
+      "source": "Enbiya Suresi, 89",
+      "arabic_text": "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنْتَ خَيْرُ الْوَارِثِينَ",
+      "turkish_text": "Rabbim! Beni tek başıma (yalnız) bırakma. Sen varislerin en hayırlısısın.",
+      "context": "Yalnızlık, kimsesizlik hissedildiğinde veya hayırlı bir eş/evlat istendiğinde okunur.",
+      "emotional_tags": [
+        "Yalnızlık",
+        "Terk Edilme",
+        "Kimsesizlik"
+      ]
+    },
+    {
+      "source": "İbni Mace, Dua, 2",
+      "arabic_text": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+      "turkish_text": "Ey Hayy ve Kayyum olan Allah'ım! Rahmetinle yardımını talep ediyorum.",
+      "context": "Çok büyük bir dert, sıkıntı veya yalnızlık anında acil yardım istemek için okunur.",
+      "emotional_tags": [
+        "Yardım",
+        "Acil",
+        "Yalnızlık",
+        "Sıkıntı"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 1",
+      "arabic_text": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+      "turkish_text": "Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.",
+      "context": "En kapsamlı duadır. Genel iyilik, şükür ve selamet için her zaman okunur.",
+      "emotional_tags": [
+        "Genel",
+        "İyilik",
+        "Huzur",
+        "Şükür"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 85",
+      "arabic_text": "الْحَمْدُ لِلَّهِ الَّذِي عَافَانِي مِمَّا ابْتَلَاكَ بِهِ وَفَضَّلَنِي عَلَى كَثِيرٍ مِمَّنْ خَلَقَ تَفْضِيلًا",
+      "turkish_text": "Beni senin müptela olduğun dertten kurtaran ve yarattıklarının birçoğuna beni üstün kılan Allah'a hamd olsun.",
+      "context": "Bir musibete uğrayan veya hasta birini görünce (içinden) okunur; şükür duygusunu artırır.",
+      "emotional_tags": [
+        "Şükür",
+        "Farkındalık",
+        "Korunma"
+      ]
+    },
+    {
+      "source": "Ebu Davud, Salat, 367",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْفَقْرِ، وَالْقِلَّةِ، وَالذِّلَّةِ",
+      "turkish_text": "Allah'ım! Fakirlikten, yokluktan ve zilletten (aşağılanmaktan) sana sığınırım.",
+      "context": "Maddi sıkıntılar ve itibar kaybı korkusu yaşandığında okunur.",
+      "emotional_tags": [
+        "Fakirlik",
+        "Zillet",
+        "Korku",
+        "İtibar"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 92",
+      "arabic_text": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+      "turkish_text": "Allah bize yeter, O ne güzel vekildir.",
+      "context": "Zorba bir insanla karşılaşıldığında, korku anında veya bir işin altından kalkılamadığında.",
+      "emotional_tags": [
+        "Güven",
+        "Vekalet",
+        "Teslimiyet",
+        "Güç"
+      ]
+    },
+    {
+      "source": "Müslim, Müsafirin, 201",
+      "arabic_text": "اللَّهُمَّ رَبَّ السَّمَاوَاتِ وَرَبَّ الْأَرْضِ وَرَبَّ الْعَرْشِ الْعَظِيمِ، رَبَّنَا وَرَبَّ كُلِّ شَيْءٍ، فَالِقَ الْحَبِّ وَالنَّوَى",
+      "turkish_text": "Ey göklerin Rabbi, yerin Rabbi ve büyük Arş'ın Rabbi! Ey bizim Rabbimiz ve her şeyin Rabbi! Ey taneyi ve çekirdeği yaran!",
+      "context": "Gece yatarken vesveselerden arınmak ve Allah'ın büyüklüğünü hissederek rahatlamak için.",
+      "emotional_tags": [
+        "Azamet",
+        "Rahatlama",
+        "Uyku",
+        "Vesvese"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 19",
+      "arabic_text": "اللَّهُمَّ مُصَرِّفَ الْقُلُوبِ صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ",
+      "turkish_text": "Ey kalpleri yönlendiren Allah'ım! Kalplerimizi sana itaate yönelt.",
+      "context": "İbadetlerde tembellik, isteksizlik veya karar verme zorluğu yaşandığında.",
+      "emotional_tags": [
+        "Karar",
+        "İtaat",
+        "Yöneliş",
+        "Kalp"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 65",
+      "arabic_text": "رَبِّ أَعِنِّي وَلَا تُعِنْ عَلَيَّ، وَانْصُرْنِي وَلَا تَنْصُرْ عَلَيَّ، وَامْكُرْ لِي وَلَا تَمْكُرْ عَلَيَّ",
+      "turkish_text": "Rabbim! Bana yardım et, aleyhime yardım etme. Bana zafer ver, aleyhime zafer verme. Benim lehime düzen kur, aleyhime düzen kurma.",
+      "context": "Haksızlığa uğrama korkusu ve hayatta başarısızlık endişesine karşı.",
+      "emotional_tags": [
+        "Başarı",
+        "Zafer",
+        "Korunma",
+        "Güven"
+      ]
+    },
+    {
+      "source": "Ebu Davud, Edeb, 102",
+      "arabic_text": "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "turkish_text": "Allah'ın adıyla. Allah'a tevekkül ettim. Güç ve kuvvet ancak Allah iledir.",
+      "context": "Evden çıkarken okunur. Bunu okuyana 'Sana hidayet verildi, işin görüldü ve korundun' denilir.",
+      "emotional_tags": [
+        "Başlangıç",
+        "Dışarı",
+        "Güvenlik",
+        "Tevekkül"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 114",
+      "arabic_text": "اللَّهُمَّ اجْعَلْ أَوْسَعَ رِزْقِكَ عَلَيَّ عِنْدَ كِبَرِ سِنِّي، وَانْقِطَاعِ عُمُرِي",
+      "turkish_text": "Allah'ım! Rızkının en genişini, yaşlılığımda ve ömrümün sonuna doğru ver.",
+      "context": "Gelecek kaygısı ve yaşlılık korkusu yaşayanlar için.",
+      "emotional_tags": [
+        "Gelecek Kaygısı",
+        "Yaşlılık",
+        "Rızık"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 29",
+      "arabic_text": "اللَّهُمَّ بَاعِدْ بَيْنِي وَبَيْنَ خَطَايَايَ كَمَا بَاعَدْتَ بَيْنَ الْمَشْرِقِ وَالْمَغْرِبِ",
+      "turkish_text": "Allah'ım! Doğu ile batının arasını uzaklaştırdığın gibi, benimle hatalarımın arasını da uzaklaştır.",
+      "context": "Suçluluk duygusundan arınmak ve yeni bir başlangıç yapmak için namazlarda okunur.",
+      "emotional_tags": [
+        "Tövbe",
+        "Arınma",
+        "Suçluluk"
+      ]
+    },
+    {
+      "source": "Ahkaf Suresi, 15",
+      "arabic_text": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ",
+      "turkish_text": "Rabbim! Bana ve anne babama verdiğin nimetlere şükretmemi bana ilham et.",
+      "context": "Olumlu düşünceyi artırmak, depresif halden çıkıp elindekilerin kıymetini bilmek için.",
+      "emotional_tags": [
+        "Şükür",
+        "Pozitif",
+        "Nimet"
+      ]
+    },
+    {
+      "source": "Ebu Davud, Salat, 227",
+      "arabic_text": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي",
+      "turkish_text": "Allah'ım! Bedenime afiyet ver. Allah'ım! Kulağıma afiyet ver. Allah'ım! Gözüme afiyet ver.",
+      "context": "Sabah akşam sağlık anksiyetesi ve hastalık korkusuna karşı okunur.",
+      "emotional_tags": [
+        "Sağlık",
+        "Sıhhat",
+        "Afiyet",
+        "Anksiyete"
+      ]
+    },
+    {
+      "source": "Tirmizi, Daavat, 102",
+      "arabic_text": "اللَّهُمَّ مَتِّعْنِي بِسَمْعِي وَبَصَرِي وَاجْعَلْهُمَا الْوَارِثَ مِنِّي",
+      "turkish_text": "Allah'ım! Kulağım ve gözümle beni faydalandır ve ölünceye kadar onları bende (sağlam) bırak.",
+      "context": "Fiziksel yetenekleri kaybetme korkusu ve yaşlanma endişesi için.",
+      "emotional_tags": [
+        "Sağlık",
+        "Korku",
+        "Gelecek"
+      ]
+    },
+    {
+      "source": "Müslim, Zikir, 50",
+      "arabic_text": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+      "turkish_text": "Allah'ım! Ben nefsime çok zulmettim. Günahları ancak sen bağışlarsın.",
+      "context": "Vicdan azabı çekenler ve hata yaptığını düşünenler için rahatlama vesilesidir.",
+      "emotional_tags": [
+        "Vicdan",
+        "Tövbe",
+        "Af"
+      ]
+    },
+    {
+      "source": "Taha Suresi, 25-26",
+      "arabic_text": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
+      "turkish_text": "Rabbim! Göğsüme genişlik ver ve işimi bana kolaylaştır.",
+      "context": "Topluluk önünde konuşma korkusu, sınav kaygısı veya zor bir işe başlarken.",
+      "emotional_tags": [
+        "Özgüven",
+        "Rahatlama",
+        "Kolaylık"
+      ]
+    },
+    {
+      "source": "Ebu Davud, Vitr, 32",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَدْمِ، وَأَعُوذُ بِكَ مِنَ التَّرَدِّي",
+      "turkish_text": "Allah'ım! Yıkıntı altında kalmaktan, yüksekten düşmekten sana sığınırım.",
+      "context": "Fiziksel travma korkusu, kaza ve afet endişesi taşıyanlar için.",
+      "emotional_tags": [
+        "Kaza",
+        "Afet",
+        "Korku",
+        "Travma"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 56",
+      "arabic_text": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ، وَدَرَكِ الشَّقَاءِ، وَسُوءِ الْقَضَاءِ",
+      "turkish_text": "Allah'ım! Belanın beni ezmesinden, bedbahtlığın bana ulaşmasından ve kötü kaderden sana sığınırım.",
+      "context": "Hayat üst üste geldiğinde, tükenmişlik sendromunda okunur.",
+      "emotional_tags": [
+        "Tükenmişlik",
+        "Bela",
+        "Kader"
+      ]
+    },
+    {
+      "source": "Müslim, Zikir, 77",
+      "arabic_text": "اللَّهُمَّ اغْفِرْ لِي خَطِيئَتِي وَجَهْلِي وَإِسْرَافِي فِي أَمْرِي",
+      "turkish_text": "Allah'ım! Hatalarımı, cehaletimi ve işlerimdeki taşkınlıklarımı bağışla.",
+      "context": "Dürtüsel davranışlar, öfke patlamaları veya aşırı harcama sonrası pişmanlık için.",
+      "emotional_tags": [
+        "Dürtüsellik",
+        "Pişmanlık",
+        "Af"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 63",
+      "arabic_text": "اللَّهُمَّ لَا عَيْشَ إِلَّا عَيْشُ الْآخِرَةِ",
+      "turkish_text": "Allah'ım! Ahiret hayatından başka (gerçek) hayat yoktur.",
+      "context": "Dünya dertleri gözde büyüdüğünde, perspektif kazanmak ve sakinleşmek için söylenir.",
+      "emotional_tags": [
+        "Perspektif",
+        "Sakinlik",
+        "Teselli"
+      ]
+    },
+    {
+      "source": "İbni Mace, Tıb, 36",
+      "arabic_text": "أَذْهِبِ الْبَاسَ رَبَّ النَّاسِ، اشْفِ وَأَنْتَ الشَّافِي",
+      "turkish_text": "Bu hastalığı gider ey insanların Rabbi! Şifa ver, çünkü şifa veren sensin.",
+      "context": "Kendisi veya yakını hasta olanlar, ağrı ve sızı çekenler için.",
+      "emotional_tags": [
+        "Şifa",
+        "Hastalık",
+        "Sağlık"
+      ]
+    },
+    {
+      "source": "Araf Suresi, 47",
+      "arabic_text": "رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِمِينَ",
+      "turkish_text": "Rabbimiz! Bizi zalimler topluluğu ile beraber bulundurma.",
+      "context": "Kötü bir çevrede bulunmak zorunda kalanlar veya dışlanmışlık hissedenler için.",
+      "emotional_tags": [
+        "Çevre",
+        "Korunma",
+        "Dışlanma"
+      ]
+    },
+    {
+      "source": "Tirmizi, Deavat, 92",
+      "arabic_text": "الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَكَفَانَا وَآوَانَا",
+      "turkish_text": "Bizi doyuran, içiren, koruyan ve barındıran Allah'a hamdolsun.",
+      "context": "Yiyecek ve barınma nimeti için şükür; yalnızlık hissine karşı 'sahibim Allah'tır' bilinci.",
+      "emotional_tags": [
+        "Şükür",
+        "Güven",
+        "Barınma"
+      ]
+    },
+    {
+      "source": "Furkan Suresi, 74",
+      "arabic_text": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+      "turkish_text": "Rabbimiz! Bize eşlerimizden ve çocuklarımızdan göz aydınlığı olacak nesiller ver.",
+      "context": "Aile içi huzursuzluk, geçimsizlik ve yalnızlık korkusuna karşı.",
+      "emotional_tags": [
+        "Aile",
+        "Huzur",
+        "İlişkiler"
+      ]
+    },
+    {
+      "source": "Buhari, Deavat, 46",
+      "arabic_text": "اللَّهُمَّ آتِ نَفْسِي تَقْوَاهَا، وَزَكِّهَا أَنْتَ خَيْرُ مَنْ زَكَّاهَا",
+      "turkish_text": "Allah'ım! Nefsime takvasını ver ve onu temizle. Onu en iyi temizleyen sensin.",
+      "context": "Kişisel gelişim, nefs terbiyesi ve karakter bozukluklarını düzeltmek isteği için.",
+      "emotional_tags": [
+        "Nefs",
+        "Gelişim",
+        "Arınma"
+      ]
+    }
+  ]
+}
