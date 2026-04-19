@@ -1,0 +1,122 @@
+name: quranapp-clean
+
+services:
+  clean-app-db:
+    image: pgvector/pgvector:pg16
+    container_name: quranapp-clean-app-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${APP_DB_USER}
+      POSTGRES_PASSWORD: ${APP_DB_PASSWORD}
+      POSTGRES_DB: ${APP_DB_NAME}
+    ports:
+      - "${APP_DB_HOST_PORT:-15432}:5432"
+    volumes:
+      - quranapp_clean_app_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${APP_DB_USER} -d ${APP_DB_NAME}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  clean-resource-db:
+    image: pgvector/pgvector:pg16
+    container_name: quranapp-clean-resource-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${RESOURCE_DB_USER}
+      POSTGRES_PASSWORD: ${RESOURCE_DB_PASSWORD}
+      POSTGRES_DB: ${RESOURCE_DB_NAME}
+    ports:
+      - "${RESOURCE_DB_HOST_PORT:-15433}:5432"
+    volumes:
+      - quranapp_clean_resource_postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${RESOURCE_DB_USER} -d ${RESOURCE_DB_NAME}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  clean-resource-neo4j:
+    image: neo4j:5-community
+    container_name: quranapp-clean-resource-neo4j
+    restart: unless-stopped
+    ports:
+      - "${RESOURCE_NEO4J_HTTP_PORT:-17475}:7474"
+      - "${RESOURCE_NEO4J_BOLT_PORT:-17688}:7687"
+    environment:
+      NEO4J_AUTH: ${RESOURCE_NEO4J_USER}/${RESOURCE_NEO4J_PASSWORD}
+      NEO4J_server_memory_heap_initial__size: 512m
+      NEO4J_server_memory_heap_max__size: 1G
+    volumes:
+      - quranapp_clean_resource_neo4j_data:/data
+    healthcheck:
+      test: ["CMD-SHELL", "wget --no-verbose --tries=1 --spider http://localhost:7474 || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
+
+  clean-resource-service:
+    build:
+      context: ./resource-service
+      dockerfile: Dockerfile
+    image: quranapp-clean-resource-service:latest
+    container_name: quranapp-clean-resource-service
+    restart: unless-stopped
+    ports:
+      - "${RESOURCE_SERVICE_HOST_PORT:-18100}:8100"
+    environment:
+      DB_HOST: clean-resource-db
+      DB_PORT: 5432
+      DB_NAME: ${RESOURCE_DB_NAME}
+      DB_USER: ${RESOURCE_DB_USER}
+      DB_PASSWORD: ${RESOURCE_DB_PASSWORD}
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+      EMBEDDING_MODEL: models/gemini-embedding-001
+      EMBEDDING_DIMENSION: 768
+      GRAPH_CONTEXT_ENABLED: true
+      NEO4J_URI: bolt://clean-resource-neo4j:7687
+      NEO4J_USER: ${RESOURCE_NEO4J_USER}
+      NEO4J_PASSWORD: ${RESOURCE_NEO4J_PASSWORD}
+      SERVICE_AUTH_TOKEN: ${RESOURCE_SERVICE_TOKEN}
+    depends_on:
+      clean-resource-db:
+        condition: service_healthy
+      clean-resource-neo4j:
+        condition: service_healthy
+
+  clean-app-service:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    image: quranapp-clean-app-service:latest
+    container_name: quranapp-clean-app-service
+    restart: unless-stopped
+    ports:
+      - "${APP_SERVICE_HOST_PORT:-18000}:8000"
+    environment:
+      DB_HOST: clean-app-db
+      DB_PORT: 5432
+      DB_NAME: ${APP_DB_NAME}
+      DB_USER: ${APP_DB_USER}
+      DB_PASSWORD: ${APP_DB_PASSWORD}
+      GEMINI_API_KEY: ${GEMINI_API_KEY}
+      LLM_MODEL: gemini-2.0-flash
+      SECRET_KEY: ${APP_SECRET_KEY}
+      ALGORITHM: HS256
+      ACCESS_TOKEN_EXPIRE_MINUTES: ${ACCESS_TOKEN_EXPIRE_MINUTES:-1440}
+      REFRESH_TOKEN_EXPIRE_MINUTES: ${REFRESH_TOKEN_EXPIRE_MINUTES:-43200}
+      RESOURCE_SERVICE_ENABLED: true
+      RESOURCE_SERVICE_BASE_URL: http://clean-resource-service:8100/api/v1
+      RESOURCE_SERVICE_TOKEN: ${RESOURCE_SERVICE_TOKEN}
+      RESOURCE_SERVICE_TIMEOUT_SECONDS: 15
+    depends_on:
+      clean-app-db:
+        condition: service_healthy
+      clean-resource-service:
+        condition: service_started
+
+volumes:
+  quranapp_clean_app_postgres_data:
+  quranapp_clean_resource_postgres_data:
+  quranapp_clean_resource_neo4j_data:

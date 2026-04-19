@@ -1,0 +1,7 @@
+# Otomatik dönüşüm ayarları - Bütün işletim sistemleri için uyumlu line-endings
+* text=auto
+
+# Betik dosyaları (Shell Script) HANGİ işletim sisteminden olursa olsun
+# HER ZAMAN Linux (LF) satır sonu yapısını kullanmaya zorlanır. 
+# Böylece Windows'da çalışırken bile dosyayı bozmazsınız.
+*.sh text eol=lf

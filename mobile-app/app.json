@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "mobile-app",
+    "slug": "mobile-app",
+    "scheme": "quranapp",
+    "version": "1.0.0",
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "experiments": {
+      "tsconfigPaths": true
+    },
+    "plugins": ["expo-router"],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F6F1E6"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#F6F1E6"
+      },
+      "softwareKeyboardLayoutMode": "resize",
+      "package": "com.blackstorm07.mobileapp"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e68dfc59-724b-463d-b1fc-83f1265bbeec"
+      }
+    }
+  }
+}
